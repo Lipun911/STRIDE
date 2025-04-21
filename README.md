@@ -61,11 +61,15 @@ The system consists of:
 
 ---
 
-## 📁 Project Structure
+## 6. Conclusion
 
-```bash
-📁 stride-threat-modeling/
-├── README.md
-├── dfd-diagram.png
-├── stride-threat-table.md
-└── report.pdf (optional)
+Threat modeling using STRIDE provides a structured approach to analyzing system vulnerabilities. By identifying threats early, developers and security professionals can reduce risk and strengthen security posture before deployment.
+
+---
+
+## 7. References
+
+- Microsoft STRIDE Model Documentation
+- OWASP Threat Modeling
+- MITRE ATT&CK Framework
+- Threat Modeling Manifesto
