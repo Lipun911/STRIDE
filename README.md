@@ -32,9 +32,7 @@ The system consists of:
 - **Database Server (MySQL/Postgres)**
 - **Authentication Module**
 
-> ⚠️ You can edit this and add your own DFD image below.
-
-![Data Flow Diagram](./![Diagram](https://github.com/user-attachments/assets/e5055ac0-1bfd-4593-893e-5665afcafbab)
+Data Flow Diagram(./![Diagram](https://github.com/user-attachments/assets/e5055ac0-1bfd-4593-893e-5665afcafbab)
 
 ---
 
